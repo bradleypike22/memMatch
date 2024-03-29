@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirro\\source\\repos\\bradleypike22\\memMatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\SettingsScreen.js||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screens\\SettingsScreen.js||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screens\\HomeScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\HapticFeedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\HapticFeedback.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\sound.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:utils\\sound.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\Timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\Timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\FlipCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:components\\FlipCard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\CustomCameraScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screens\\CustomCameraScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\GameScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:screens\\GameScreen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\App.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsScreen.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\SettingsScreen.js",
+              "RelativeDocumentMoniker": "screens\\SettingsScreen.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\SettingsScreen.js",
+              "RelativeToolTip": "screens\\SettingsScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:13:11.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeScreen.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\HomeScreen.js",
+              "RelativeDocumentMoniker": "screens\\HomeScreen.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\HomeScreen.js",
+              "RelativeToolTip": "screens\\HomeScreen.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:12:47.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HapticFeedback.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\HapticFeedback.js",
+              "RelativeDocumentMoniker": "utils\\HapticFeedback.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\HapticFeedback.js",
+              "RelativeToolTip": "utils\\HapticFeedback.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:12:22.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sound.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\sound.js",
+              "RelativeDocumentMoniker": "utils\\sound.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\utils\\sound.js",
+              "RelativeToolTip": "utils\\sound.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:12:02.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Timer.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\Timer.js",
+              "RelativeDocumentMoniker": "components\\Timer.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\Timer.js",
+              "RelativeToolTip": "components\\Timer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:11:44.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FlipCard.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\FlipCard.js",
+              "RelativeDocumentMoniker": "components\\FlipCard.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\components\\FlipCard.js",
+              "RelativeToolTip": "components\\FlipCard.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:11:20.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomCameraScreen.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\CustomCameraScreen.js",
+              "RelativeDocumentMoniker": "screens\\CustomCameraScreen.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\CustomCameraScreen.js",
+              "RelativeToolTip": "screens\\CustomCameraScreen.js",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwDkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:11:04.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameScreen.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\GameScreen.js",
+              "RelativeDocumentMoniker": "screens\\GameScreen.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\screens\\GameScreen.js",
+              "RelativeToolTip": "screens\\GameScreen.js",
+              "ViewState": "AQIAABcAAAAAAAAAAAAcwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:10:41.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\App.js",
+              "RelativeDocumentMoniker": "App.js",
+              "ToolTip": "C:\\Users\\mirro\\Source\\Repos\\bradleypike22\\memMatch\\App.js",
+              "RelativeToolTip": "App.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-29T22:09:17.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
